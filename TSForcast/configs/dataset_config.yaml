@@ -1,0 +1,30 @@
+human_action:
+  feature_dim: 27
+
+
+PPG-DaLiA:
+  feature_dim: 11
+
+
+
+
+electricityloaddiagrams:
+  feature_dim: 90
+
+
+
+ETT:
+  feature_dim: 7
+
+
+
+
+
+
+AIR:
+  feature_dim: 10
+
+
+pems:
+  feature_dim: 100
+
