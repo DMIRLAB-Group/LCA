@@ -119,7 +119,7 @@ class Train_Result:
         self.is_first = True
 
     def getResult(self):
-        if self.is_fixrst:
+        if self.is_first:
             if self.result_dict:
                 for key, value in self.result_dict.items():
                     self.result_dict[key] = self.result_dict[key] / self.count
