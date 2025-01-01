@@ -2,7 +2,7 @@ import argparse
 
 
 def get_model_a_parser():
-    parser = argparse.ArgumentParser(description="Configuration for Model TSCA", allow_abbrev=False)
+    parser = argparse.ArgumentParser(description="Configuration for Model LCA", allow_abbrev=False)
     parser.add_argument("--z_dim", type=int, default=20)
     parser.add_argument("--lags", type=int, default=1)
     parser.add_argument("--z_kl_weight", type=float, default=0.1)
