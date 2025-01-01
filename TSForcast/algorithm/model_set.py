@@ -1,7 +1,7 @@
 from algorithm import LCA
 
 model_map = {
-    "TSCA": LCA,
+    "LCA": LCA,
 }
 
 
