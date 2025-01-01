@@ -303,7 +303,8 @@ class Model(nn.Module):
 
         rec_loss = self.criterion(src_rec_x, src_x) + self.criterion(trg_rec_x, trg_x)
 
-        pre_loss = calculate_pred_loss(src_pre_y, src_y, self.config.pred_type == "m_s")
+        # pre_loss = calculate_pred_loss(src_pre_y, src_y, self.config.pred_type == "m_s")
+        pre_loss = calculate_pred_loss(src_pre_y, src_y)
         if no_kl:
             return rec_loss, pre_loss, 0, 0, 0
 
