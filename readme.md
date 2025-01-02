@@ -9,7 +9,7 @@ The Latent Causality Alignment (LCA) is a model designed for time series domain 
 
 ## Main Results
 
-![Overall structure of LCA](./assets/result.png "Overall structure of LCA")
+![Main results of LCA](./assets/result.png "Main results of LCA")
 
 ## Get Started
 
