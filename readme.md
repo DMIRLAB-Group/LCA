@@ -19,6 +19,8 @@ The Latent Causality Alignment (LCA) is a model designed for time series domain 
 
 3. Train the model. Run the script in the scripts directory, you can run the shell command to execute the experiment.Examples are as follows:
 ```shell
-bash ./TSForcast/scripts/human_action.sh
-bash ./TSClassif/scripts/HAR.sh
+# cd TSForcast/
+bash ./scripts/human_action.sh
+# cd TSClassif/
+bash ./scripts/HAR.sh
 ```
