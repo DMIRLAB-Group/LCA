@@ -25,7 +25,7 @@ The Latent Causality Alignment (LCA) is a model designed for time series domain 
 
 1. Set up the running environment. Install Python and PyTorch, see [Install](https://github.com/DMIRLAB-Group/LCA/blob/main/Install.md) for details.
 
-2. Download data. You can obtain all the datasets from [[Google Drive(TSForcast)](https://drive.google.com/drive/folders/1wKhyKQDgnNwNNqfY4ox4Zu890uVZQ9_o?usp=sharing)] or [[AdaTime(TSClassif)](https://github.com/emadeldeen24/AdaTime)] or [[TranSVAE(VideoClassif)](https://github.com/ldkong1205/TranSVAE)].
+2. Download data. You can obtain all the datasets from [[Google Drive(TSForcast)](https://drive.google.com/drive/folders/1wKhyKQDgnNwNNqfY4ox4Zu890uVZQ9_o?usp=sharing)] or [[AdaTime(TSClassif)](https://github.com/emadeldeen24/AdaTime)] or [[TranSVAE(VideoClassif)](https://github.com/ldkong1205/TranSVAE/blob/main/docs/DATA_PREPARE.md)].
 
 3. Train the model. Run the script in the scripts directory, you can run the shell command to execute the experiment.Examples are as follows:
 ```shell
