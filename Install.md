@@ -2,7 +2,7 @@
 
 ## Setup Enviroment
 
-This codebase is tested with `torch==2.2.0`, with `CUDA 11.8`. The following are the environments for time series classification and prediction. For video classification, please refer to [[TranSVAE](https://github.com/ldkong1205/TranSVAE/blob/main/docs/INSTALL.md)].
+This codebase is tested with `torch==2.2.0`, with `CUDA 11.8`. 
 
 **Step 1: Create Enviroment**
 
