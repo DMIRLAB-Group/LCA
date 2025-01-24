@@ -33,4 +33,6 @@ The Latent Causality Alignment (LCA) is a model designed for time series domain 
 bash ./scripts/human_action.sh
 # cd TSClassif/
 bash ./scripts/HAR.sh
+# cd /VideoClassif
+bash ./scripts/humdb_ucf.sh 
 ```
